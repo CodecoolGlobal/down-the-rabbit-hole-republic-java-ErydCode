@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class Input {
     private final Display display;
-    private final Scanner scanner = new Scanner(System.in);
 
     public Input(Display display) {
         this.display = display;
